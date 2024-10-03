@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.bullethellsp",                              
+  "displayName": "Bullet Hell CS Start Pack",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "This package allows to start rather quickly a bullet hell in solo in a 65x65x65 meter space. Use for eLab Network Drone multiplayer games",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_08_14_StartPackBulletHellCS.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
